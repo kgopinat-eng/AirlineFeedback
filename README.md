@@ -1,11 +1,6 @@
 # AirlineFeedback
 A Streamlit app for a fictional airline that collects passenger ratings and comments, uses a Groq-powered LLM to categorize feedback, and provides an owner dashboard to identify improvement priorities and flag comments for manual review.
 
-# Skyline Air Feedback App
-
-A Streamlit app that collects passenger feedback for a fictional
-airline and uses a Groq-hosted LLM to label written comments.
-
 ## Business Question
 
 Which part of the passenger experience should Skyline Air
