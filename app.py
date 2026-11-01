@@ -203,7 +203,7 @@ def label_comment(comment):
                 }
             ],
             temperature=0,
-            max_tokens=180,
+            max_tokens=2048,
             response_format={"type": "json_object"}
         )
 
